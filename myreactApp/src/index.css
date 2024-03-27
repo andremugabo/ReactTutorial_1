@@ -43,7 +43,9 @@
   font-family: Arial, sans-serif;
   font-size: 2em;
   padding: 10px;
-  border: 1px solid hsla(0, 0%, 50%, 0.8)
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+  display: inline-block;
+  max-width: 400px;
 }
 .student p{
   margin: 0;

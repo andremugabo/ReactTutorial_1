@@ -19,8 +19,9 @@ function App() {
       <ButtonInlineStyle />
       <Student name="SpongeBob" age={30} isStudent={true} />
       <Student name="Patrick" age={42} isStudent={false} />
-      <Student name="Squidward" age={52} isStudent={false} />
+      <Student name="SquidWard" age={52} isStudent={false} />
       <Student name="Sandy" age={27} isStudent={true} />
+      <Student />
       <Footer />
     </>
   );
